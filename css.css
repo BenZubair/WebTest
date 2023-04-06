@@ -1,0 +1,80 @@
+.img {
+    float: right;
+    text-align: center;
+    width: 10%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#img {
+    float: left;
+    padding-right: 0px;
+    background-color: rgb(82, 65, 241);
+}
+
+.adv {
+    float: right;
+    text-align: center;
+    width: 12%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#adv {
+    float: left;
+    padding-right: 0px;
+    background-color:rgb(86, 69, 243);
+}
+
+.hg {
+    text-align: center;
+    padding-top: 20;
+    font-size: 50px;
+}
+
+.sear {
+    float: right;
+    text-align: center;
+    width: 18%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#sear {
+    float: left;
+    padding-right: 0px;
+    background-color: rgb(68, 52, 214);
+}
+
+.sr {
+    display: flex;
+    padding-top: 0px;
+    justify-content: center;
+}
+
+input {
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input:hover {
+        border-style: 1px solid;
+        border-color: silver;
+}
+
+.subm {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+button:hover {
+        background-color: blue;
+        color: white;
+}
